@@ -1,6 +1,4 @@
-# url_shortener
-URL Shortener written in Django
-
+# URL Shortener written in Django
 Deploying with Docker
 1. Build image:
 ```
